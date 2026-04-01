@@ -23,6 +23,9 @@ logs/
 *.npy
 *.pdf
 
+!results/jeffy22/*.csv
+!results/jeffy22/*.png
+
 # Environment
 env/
 dlpals/
