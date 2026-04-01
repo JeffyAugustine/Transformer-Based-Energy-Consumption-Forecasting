@@ -1,0 +1,84 @@
+ETTh1_336_96_baseline_PatchTST_ETTh1_ftM_sl336_ll48_pl96_dm128_nh8_el3_dl1_df256_fc1_ebtimeF_dtTrue_test_0  
+mse:0.3677855134010315, mae:0.3937866687774658, rse:0.5774997472763062
+
+ETTh1_336_96_baseline_PatchTST_ETTh1_ftM_sl336_ll48_pl96_dm128_nh8_el3_dl1_df256_fc1_ebtimeF_dtTrue_test_1  
+mse:0.36732301115989685, mae:0.3944513499736786, rse:0.5771365165710449
+
+ETTh1_336_96_baseline_PatchTST_ETTh1_ftM_sl336_ll48_pl96_dm128_nh8_el3_dl1_df256_fc1_ebtimeF_dtTrue_test_2  
+mse:0.36846017837524414, mae:0.3949969708919525, rse:0.578029215335846
+
+ETTh1_336_96_baseline_PatchTST_ETTh1_ftM_sl336_ll48_pl96_dm128_nh8_el3_dl1_df256_fc1_ebtimeF_dtTrue_test_3  
+mse:0.3651064336299896, mae:0.3929440379142761, rse:0.5753925442695618
+
+ETTh1_336_96_baseline_PatchTST_ETTh1_ftM_sl336_ll48_pl96_dm128_nh8_el3_dl1_df256_fc1_ebtimeF_dtTrue_test_4  
+mse:0.36742496490478516, mae:0.3931982219219208, rse:0.577216625213623
+
+ETTh1_336_96_paper_PatchTST_ETTh1_ftM_sl336_ll48_pl96_dm16_nh4_el3_dl1_df128_fc1_ebtimeF_dtTrue_test_0  
+mse:0.38245558738708496, mae:0.4059637188911438, rse:0.5889046788215637
+
+ETTh1_336_96_paper_PatchTST_ETTh1_ftM_sl336_ll48_pl96_dm16_nh4_el3_dl1_df128_fc1_ebtimeF_dtTrue_test_1  
+mse:0.38442927598953247, mae:0.40842169523239136, rse:0.5904222726821899
+
+ETTh1_336_96_paper_PatchTST_ETTh1_ftM_sl336_ll48_pl96_dm16_nh4_el3_dl1_df128_fc1_ebtimeF_dtTrue_test_2  
+mse:0.38230326771736145, mae:0.40665680170059204, rse:0.5887873768806458
+
+ETTh1_336_96_baseline_PatchTST_ETTh1_ftM_sl336_ll48_pl96_dm128_nh8_el3_dl1_df256_fc1_ebtimeF_dtTrue_test_0  
+mse:0.3677855134010315, mae:0.3937866687774658, rse:0.5774997472763062
+
+ETTh1_336_96_baseline_PatchTST_ETTh1_ftM_sl336_ll48_pl96_dm128_nh8_el3_dl1_df256_fc1_ebtimeF_dtTrue_test_1  
+mse:0.36732301115989685, mae:0.3944513499736786, rse:0.5771365165710449
+
+ETTh1_336_96_baseline_PatchTST_ETTh1_ftM_sl336_ll48_pl96_dm128_nh8_el3_dl1_df256_fc1_ebtimeF_dtTrue_test_2  
+mse:0.36846017837524414, mae:0.3949969708919525, rse:0.578029215335846
+
+ETTh1_336_96_baseline_PatchTST_ETTh1_ftM_sl336_ll48_pl96_dm128_nh8_el3_dl1_df256_fc1_ebtimeF_dtTrue_test_3  
+mse:0.3651064336299896, mae:0.3929440379142761, rse:0.5753925442695618
+
+ETTh1_336_96_baseline_PatchTST_ETTh1_ftM_sl336_ll48_pl96_dm128_nh8_el3_dl1_df256_fc1_ebtimeF_dtTrue_test_4  
+mse:0.36742496490478516, mae:0.3931982219219208, rse:0.577216625213623
+
+ETTh1_336_96_paper_PatchTST_ETTh1_ftM_sl336_ll48_pl96_dm16_nh4_el3_dl1_df128_fc1_ebtimeF_dtTrue_test_0  
+mse:0.38245558738708496, mae:0.4059637188911438, rse:0.5889046788215637
+
+ETTh1_336_96_paper_PatchTST_ETTh1_ftM_sl336_ll48_pl96_dm16_nh4_el3_dl1_df128_fc1_ebtimeF_dtTrue_test_1  
+mse:0.38442927598953247, mae:0.40842169523239136, rse:0.5904222726821899
+
+ETTh1_336_96_paper_PatchTST_ETTh1_ftM_sl336_ll48_pl96_dm16_nh4_el3_dl1_df128_fc1_ebtimeF_dtTrue_test_2  
+mse:0.38230326771736145, mae:0.40665680170059204, rse:0.5887873768806458
+
+ETTh1_336_96_paper_PatchTST_ETTh1_ftM_sl336_ll48_pl96_dm16_nh4_el3_dl1_df128_fc1_ebtimeF_dtTrue_test_3  
+mse:0.377570778131485, mae:0.40280431509017944, rse:0.5851317644119263
+
+ETTh1_336_96_paper_PatchTST_ETTh1_ftM_sl336_ll48_pl96_dm16_nh4_el3_dl1_df128_fc1_ebtimeF_dtTrue_test_4  
+mse:0.3794650435447693, mae:0.40442803502082825, rse:0.586597740650177
+
+ETTh1_336_96_baseline_PatchTST_ETTh1_ftM_sl336_ll48_pl96_dm128_nh8_el3_dl1_df256_fc1_ebtimeF_dtTrue_test_0  
+mse:0.3677855134010315, mae:0.3937866687774658, rse:0.5774997472763062
+
+ETTh1_336_96_baseline_PatchTST_ETTh1_ftM_sl336_ll48_pl96_dm128_nh8_el3_dl1_df256_fc1_ebtimeF_dtTrue_test_1  
+mse:0.36732301115989685, mae:0.3944513499736786, rse:0.5771365165710449
+
+ETTh1_336_96_baseline_PatchTST_ETTh1_ftM_sl336_ll48_pl96_dm128_nh8_el3_dl1_df256_fc1_ebtimeF_dtTrue_test_2  
+mse:0.36846017837524414, mae:0.3949969708919525, rse:0.578029215335846
+
+ETTh1_336_96_baseline_PatchTST_ETTh1_ftM_sl336_ll48_pl96_dm128_nh8_el3_dl1_df256_fc1_ebtimeF_dtTrue_test_3  
+mse:0.3651064336299896, mae:0.3929440379142761, rse:0.5753925442695618
+
+ETTh1_336_96_baseline_PatchTST_ETTh1_ftM_sl336_ll48_pl96_dm128_nh8_el3_dl1_df256_fc1_ebtimeF_dtTrue_test_4  
+mse:0.36742496490478516, mae:0.3931982219219208, rse:0.577216625213623
+
+ETTh1_336_96_paper_PatchTST_ETTh1_ftM_sl336_ll48_pl96_dm16_nh4_el3_dl1_df128_fc1_ebtimeF_dtTrue_test_0  
+mse:0.38245558738708496, mae:0.4059637188911438, rse:0.5889046788215637
+
+ETTh1_336_96_paper_PatchTST_ETTh1_ftM_sl336_ll48_pl96_dm16_nh4_el3_dl1_df128_fc1_ebtimeF_dtTrue_test_1  
+mse:0.38442927598953247, mae:0.40842169523239136, rse:0.5904222726821899
+
+ETTh1_336_96_paper_PatchTST_ETTh1_ftM_sl336_ll48_pl96_dm16_nh4_el3_dl1_df128_fc1_ebtimeF_dtTrue_test_2  
+mse:0.38230326771736145, mae:0.40665680170059204, rse:0.5887873768806458
+
+ETTh1_336_96_paper_PatchTST_ETTh1_ftM_sl336_ll48_pl96_dm16_nh4_el3_dl1_df128_fc1_ebtimeF_dtTrue_test_3  
+mse:0.377570778131485, mae:0.40280431509017944, rse:0.5851317644119263
+
+ETTh1_336_96_paper_PatchTST_ETTh1_ftM_sl336_ll48_pl96_dm16_nh4_el3_dl1_df128_fc1_ebtimeF_dtTrue_test_4  
+mse:0.3794650435447693, mae:0.40442803502082825, rse:0.586597740650177
+
