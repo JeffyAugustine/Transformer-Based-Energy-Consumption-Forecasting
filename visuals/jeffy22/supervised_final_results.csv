@@ -1,0 +1,6 @@
+Model,MSE,MAE,Source
+ARIMA,0.871,0.711,Classical
+LSTM,0.631,0.583,RNN
+DLinear,0.41,0.282,Linear
+Our Baseline,0.3673,0.3939,Our Implementation
+Our Paper Hyperparams,0.3812,0.4057,Our Implementation
