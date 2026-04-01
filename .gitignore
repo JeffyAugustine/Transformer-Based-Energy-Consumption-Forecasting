@@ -1,0 +1,49 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+*.ipynb~
+
+# Training outputs
+checkpoints/
+results/
+saved_models/
+test_results/
+logs/
+*.pth
+*.npy
+*.pdf
+
+# Environment
+env/
+dlpals/
+.venv/
+
+# Large data
+data/raw/
+dataset/
+
+# SLURM
+*.out
+*.err
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Git
+.git/
