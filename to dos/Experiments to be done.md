@@ -56,7 +56,7 @@ python run_self_supervised_with_logging.py
 ```
 For other horizons, please do changes and run above command.
 
-Status: T=96 ✅ | T=192 ❌ | T=336 ❌ | T=720 ❌
+Status: T=96 ✅ | T=192 ✅ | T=336 ✅ | T=720 ✅
 
 ### 1.3 Dual-Scale
 ```bash
