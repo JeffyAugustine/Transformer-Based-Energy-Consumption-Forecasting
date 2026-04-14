@@ -42,7 +42,7 @@ python run_longExp_with_logging.py --is_training 1 --model_id ETTh1_336_336_base
 ```bash
 python run_longExp_with_logging.py --is_training 1 --model_id ETTh1_336_720_baseline --model PatchTST --data ETTh1 --features M --root_path ./dataset/ --data_path ETTh1.csv --seq_len 336 --pred_len 720 --e_layers 3 --d_model 128 --n_heads 8 --d_ff 256 --batch_size 256 --train_epochs 100 --patience 10 --itr 5 --use_gpu True --experiment_name "Baseline_T720"
 ```
-Status: T=96 ✅ | T=192 ❌ | T=336 ❌ | T=720 ❌
+Status: T=96 ✅ | T=192 ✅ | T=336 ✅ | T=720 ✅ (Jerry)
 
 ### 1.2 Self-Supervised (Single Scale) 
 ```bash
