@@ -1,10 +1,10 @@
 {
-  "experiment": "ETTh1_336_720_baseline",
+  "experiment": "ETTh1_336_720_dual",
   "dataset": "ETTh1",
   "seq_len": 336,
   "pred_len": 720,
   "num_runs": 5,
-  "total_time_minutes": 17.94095917145411,
+  "total_time_minutes": 40.25279115438461,
   "gpu": {
     "gpu_name": "NVIDIA A100-SXM4-40GB",
     "gpu_memory": "40960 MiB",
@@ -15,10 +15,12 @@
     "n_heads": 8,
     "e_layers": 3,
     "d_ff": 256,
-    "batch_size": 256,
+    "batch_size": 64,
     "learning_rate": 0.0001,
     "dropout": 0.05,
-    "patch_len": 16,
-    "stride": 8
+    "patch_len_fine": 8,
+    "stride_fine": 4,
+    "patch_len_coarse": 32,
+    "stride_coarse": 16
   }
 }
