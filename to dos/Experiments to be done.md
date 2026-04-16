@@ -79,7 +79,7 @@ python run_dual_scale.py --is_training 1 --model_id ETTh1_336_336_dual --model D
 ```bash
 python run_dual_scale.py --is_training 1 --model_id ETTh1_336_720_dual --model DualScalePatchTST --data ETTh1 --features M --root_path ./dataset/ --data_path ETTh1.csv --seq_len 336 --pred_len 720 --e_layers 3 --d_model 128 --n_heads 8 --d_ff 256 --patch_len_fine 8 --stride_fine 4 --patch_len_coarse 32 --stride_coarse 16 --batch_size 64 --train_epochs 100 --patience 10 --itr 5 --use_gpu True --experiment_name "DualScale_T720"
 ```
-Status: T=96 ✅ | T=192 ❌ | T=336 ❌ | T=720 ❌
+Status: T=96 ✅ | T=192 ❌ | T=336  ✅ | T=720  ✅
 
 ## Section 2: Hyperparameter Tuning for Dual-Scale
 First, complete Section 1 to understand which horizon gives the best opportunity for improvement. Then run these tuning experiments at that horizon.
