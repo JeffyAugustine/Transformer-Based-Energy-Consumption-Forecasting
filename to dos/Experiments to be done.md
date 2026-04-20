@@ -162,7 +162,7 @@ python run_dual_scale.py \
     --experiment_name "DualScale_LR_Tune_[NAME]" \
     [ADD LR ARGS HERE]
 ```
-Status: LR_1e-4 ✅ | LR_5e-5 ❌ | LR_2e-4 ❌ | LR_1e-3 ❌
+Status: LR_1e-4 ✅ | LR_5e-5 ✅ | LR_2e-4 ✅ | LR_1e-3 ✅
 
 ### 2.3 Model Capacity (d_model, n_heads, d_ff, dropout)
 | Experiment | d_model | n_heads | d_ff | dropout |
