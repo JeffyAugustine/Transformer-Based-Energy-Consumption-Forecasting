@@ -123,7 +123,7 @@ python run_dual_scale.py \
     [ADD PATCH ARGS HERE]
 ```
 
-Status: P8_P32 ✅ | P12_P24 ❌ | P6_P48 ❌ | P16_P32 ❌ | P10_P40 ❌
+Status: P8_P32 ✅ | P12_P24 ✅ | P6_P48 ✅ | P16_P32 ✅ | P10_P40 ✅
 
 ### 2.2 Learning Rate
 | Experiment | Learning Rate | Command Addition |
