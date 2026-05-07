@@ -1,0 +1,24 @@
+{
+  "experiment": "test_logging",
+  "dataset": "ETTh1",
+  "seq_len": 96,
+  "pred_len": 96,
+  "num_runs": 1,
+  "total_time_minutes": 1.112718359629313,
+  "gpu": {
+    "gpu_name": "NVIDIA A100-SXM4-40GB",
+    "gpu_memory": "40960 MiB",
+    "cuda_version": "590.44.01"
+  },
+  "hyperparameters": {
+    "d_model": 512,
+    "n_heads": 8,
+    "e_layers": 2,
+    "d_ff": 2048,
+    "batch_size": 128,
+    "learning_rate": 0.0001,
+    "dropout": 0.05,
+    "patch_len": 16,
+    "stride": 8
+  }
+}
