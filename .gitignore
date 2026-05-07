@@ -13,11 +13,6 @@ build/
 .ipynb_checkpoints/
 *.ipynb~
 
-# Training outputs
-logs/
-*.npy
-*.pdf
-
 # Environment
 env/
 dlpals/
