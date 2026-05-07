@@ -14,17 +14,10 @@ build/
 *.ipynb~
 
 # Training outputs
-checkpoints/
-results/
-saved_models/
 test_results/
 logs/
-*.pth
 *.npy
 *.pdf
-
-!results/jeffy22/*.csv
-!results/jeffy22/*.png
 
 # Environment
 env/

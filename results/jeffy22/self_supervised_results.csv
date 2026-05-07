@@ -1,0 +1,2 @@
+timestamp,experiment_name,dataset,seq_len,pred_len,pretrain_epochs,finetune_epochs,mask_ratio,pretrain_patch_len,pretrain_stride,finetune_patch_len,finetune_stride,gpu_name,gpu_memory,pretrain_time_min,finetune_time_min,total_time_min,mse,mae,notes
+2026-03-31T10:39:58.665932,Self_Supervised_ETTh1_336_96,ETTh1,336,96,100,20,0.4,12,12,16,8,NVIDIA A100-SXM4-40GB,40960 MiB,34.80631413,3.712344146,38.51949559,0.3737459,0.3963188,"Self-supervised with masked autoencoder, fine-tuned on forecasting. Check terminal output for MSE/MAE."
