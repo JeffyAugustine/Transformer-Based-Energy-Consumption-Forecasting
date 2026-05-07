@@ -53,7 +53,7 @@ if __name__ == "__main__":
     print("DUAL-SCALE SELF-SUPERVISED PATCHTST - ETTh1")
     print(f"GPU: {gpu_info['gpu_name']} ({gpu_info['gpu_memory']})")
     
-    MODEL_ID = 3  
+    MODEL_ID = 4  
     
     pretrain_config = {
         'dset_pretrain': 'etth1',
